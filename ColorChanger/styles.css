@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+
+
+.center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap:20px;
+}
+
+#col{
+    border:1px solid black;
+    width:100px;
+    text-align: center;
+
+}
