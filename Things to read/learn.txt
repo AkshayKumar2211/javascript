@@ -1,0 +1,2 @@
+Things to read on event in js are follow-:
+type, timestap, defaultPrevented,target, toElement, srcElement(used maximum time),currentTarget,clientX,clientY,screenX,screenY,
