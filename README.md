@@ -1,2 +1,2 @@
 # javascript
-The learning journet of javascript.
+The learning journey of javascript.
