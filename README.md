@@ -1,2 +1,2 @@
 # javascript
-this repository i create wil learning js
+The learning journet of javascript.
