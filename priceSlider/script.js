@@ -1,8 +1,19 @@
 let min=document.querySelector("#min");
+let max=document.querySelector("#max");
 
-let slidermin=document.querySelector("#slideMin")
+let slideMax=document.querySelector("#slideMax");
 
-min.addEventListener("input" ,(e)=>{
-    e.value=slidermin.value;
-    console.log(slidermin.value);
+let slidermin=document.querySelector("#slideMin");
+
+
+
+slidermin.addEventListener("input" , (e)=>{
+    min.value=e.target.value;
 })
+
+sliderMax=document.addEventListener("input" , (e)=>{
+    max.value=e.target.value;
+})
+
+
+
